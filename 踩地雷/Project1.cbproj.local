@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/04 17:17:54.000.325,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/04 17:17:55.000.474,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/04 17:18:46.000.038,C:\Users\USER\Documents\Embarcadero\Studio\Projects\踩地雷_20200804\Unit1.dfm=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/08/04 17:18:46.000.038,C:\Users\USER\Documents\Embarcadero\Studio\Projects\踩地雷_20200804\Unit1.h=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/08/04 17:18:46.000.038,C:\Users\USER\Documents\Embarcadero\Studio\Projects\踩地雷_20200804\Unit1.cpp=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/04 17:18:48.000.487,C:\Users\USER\Documents\Embarcadero\Studio\Projects\踩地雷_20200804\Project1PCH1.h=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/04 17:18:50.000.495,C:\Users\USER\Documents\Embarcadero\Studio\Projects\踩地雷_20200804\Project1.cbproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
